@@ -1,0 +1,123 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.full-website {
+    margin: 10px;
+    text-align: center;
+}
+
+.top {
+    margin: 0px;
+    padding: 0px;
+}
+
+.top table {
+    /*  background-color: red; */
+    text-align: center;
+    margin: 0px;
+    /* height: 100px; */
+    font-size: 100%;
+}
+
+
+/* .top table td {
+ width: 200px; 
+}
+
+.top img {
+    width: 200px;
+    height: 10px; 
+} */
+
+.top img {
+    height: 70px;
+}
+
+.middle {
+    margin: 0px;
+    padding: 0px;
+    font-size: 28px;
+}
+
+.menu-table a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.menu-table {
+    margin: 0px;
+    padding: 0px;
+}
+
+.menu-table td {
+    width: 91px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    text-align: justify;
+    text-align: center;
+    height: 30px;
+}
+
+.menu-area {
+    /* margin:px; */
+    text-align: center;
+    font-size: 15px;
+    font-weight: 145px;
+}
+
+.menu-area p {
+    display: inline;
+    /*  width: 80%; */
+}
+
+.body-area {
+    text-align: center;
+    margin-top: 0px;
+}
+
+.body-area img {
+    width: 100%;
+    height: auto;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+strong {
+    color: rgb(0, 255, 85);
+    text-align: center;
+}
+
+.body-area td {
+    width: 250px;
+}
+
+.body-area td b {
+    color: #B00058;
+}
+
+.post {
+    font-size: 10px;
+}
+
+.post h3 {
+    color: green;
+    margin: 0px;
+    font-size: 25px;
+}
+
+.post p {
+    text-align: justify;
+    font-size: 20px;
+    color: rgb(204, 7, 7);
+}
+
+.footer td {
+    width: 250px;
+    text-align: center;
+    background-color: coral;
+}
